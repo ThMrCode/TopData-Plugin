@@ -1,0 +1,25 @@
+main: pg_package.TopData
+version: 1.0.0
+name: TopData
+author: ThMrCode
+api-version: 1.13
+
+commands:
+  createTopKills:
+    description: Comando /createTopKills
+    aliases: ctk
+  createTopHoras:
+    description: Comando /createTopHoras
+    aliases: cth
+  createTopBloques:
+    description: Comando /createTopBloques
+    aliases: ctb
+  removeTopData:
+    description: Comando /removeTopData
+    aliases: rtd
+  listTopData:
+    description: Comando /listTopData
+    aliases: ltd
+  configTopData:
+    description: Comando /configTopData
+    aliases: cftd
