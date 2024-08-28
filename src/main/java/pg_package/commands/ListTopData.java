@@ -44,6 +44,7 @@ public class ListTopData implements CommandExecutor{
             // Mostrar los Hologramas de tipo kills
             funtionUtils.getHologramManager().listHologram(sender,"kills");
             funtionUtils.getHologramManager().listHologram(sender,"horas");
+            funtionUtils.getHologramManager().listHologram(sender,"bloques");
         }
         else {
             funtionUtils.sendNoPermission(sender, command);
