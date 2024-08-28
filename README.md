@@ -1,5 +1,6 @@
 # TopData-Plugin
 Plugin de Minecraft para java 16, version de paper 1.18.2.388
+Para usarlo en su servidor, entre a la carpeta target, decargue el archivo TopData.jar e incluyalo en la carpeta plugins de su servidor, reinicio el servidor o inicilielo y ya estaria funcionando, esto ademas creara una carpeta TopData dentro de la carpeta plugins donde estaran los archivos config.yml, data.yml y hologramUUID.yml.
 
 # HELP GUI
   - "/createTopKills(ctk) (String)name (double)height"
